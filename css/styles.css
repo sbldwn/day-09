@@ -1,0 +1,12 @@
+* {
+    box-sizing: border-box;
+}
+
+.text-column {
+    column-count: 4;
+    column-gap: 50px;
+}
+
+/* .column-50 {
+    width: 50%;
+} */
